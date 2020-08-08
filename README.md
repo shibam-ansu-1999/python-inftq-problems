@@ -1,2 +1,2 @@
 # python-inftq-problems
-This are the solutions of Inftq problems
+These are the solutions of Inftq problems
