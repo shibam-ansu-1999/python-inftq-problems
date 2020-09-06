@@ -25,5 +25,3 @@ for i in range(0,n*2):
         y.append(m)
 
 print("Name of the speciality is: ",cal_spe_count(y))
-
-        
